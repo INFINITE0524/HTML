@@ -1,0 +1,24 @@
+/* h3{
+    background-color : steelblue;
+    color : white;} */
+body{
+    background-color:#f9f7f7;
+    font-family:'Courier New', Courier, monospace;}
+thead{
+    background-color: moccasin;
+    font-size :20px;
+    text-align: left;
+    color:white;
+    font-family :'Segoe UI', Tahoma ,Geneva, Verdana ,sans-serif; }
+.style1{
+    background-color : steelblue;
+    color : white;}
+.img-style1{
+    border:1px solid #ddd;
+    border-radius:4px;
+    padding:5px;
+    background-color:white;
+    width:200px;
+    height:120px;}
+#main{
+    background-color :#dbe2ef;}
